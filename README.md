@@ -27,6 +27,7 @@
 - Фиксированная шапка с якорными ссылками
 - Оптимизированная блочная модель (box-sizing: border-box)
 
+[🚀 Чекнуть сайт](https://insvis.github.io/First-Website-Layout/)
 ---
 
 ## EN
@@ -52,7 +53,9 @@ Website layout for fictional company Pied Piper from "Silicon Valley" TV series.
 - Fixed header with anchor links
 - Optimized box model (box-sizing: border-box)
 
+[🚀 Live demo](https://insvis.github.io/First-Website-Layout/)
 ---
 
 ## 🎨 Design Reference
 **Figma Mockup:** [(https://www.figma.com/design/BL7wdCOSIxYFu1uxctuVzg/Домашнее-задание-Pied-Piper?node-id=0-1&p=f&t=CykljVysb6iwab3z-0)]
+
