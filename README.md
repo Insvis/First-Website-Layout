@@ -19,7 +19,6 @@
 - Фиксированная шапка с навигацией
 - 5 основных секций
 - Футер с копирайтом
-- Адаптивные изображения
 
 ### 🎯 Особенности
 - Pixel-perfect верстка
@@ -45,7 +44,6 @@ Website layout for fictional company Pied Piper from "Silicon Valley" TV series.
 - Fixed header with navigation
 - 5 main sections
 - Footer with copyright
-- Responsive images
 
 ### 🎯 Features
 - Pixel-perfect implementation
@@ -58,4 +56,5 @@ Website layout for fictional company Pied Piper from "Silicon Valley" TV series.
 
 ## 🎨 Design Reference
 **Figma Mockup:** [(https://www.figma.com/design/BL7wdCOSIxYFu1uxctuVzg/Домашнее-задание-Pied-Piper?node-id=0-1&p=f&t=CykljVysb6iwab3z-0)]
+
 
